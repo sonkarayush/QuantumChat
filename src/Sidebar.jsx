@@ -92,7 +92,7 @@ function Sidebar() {
             </ul>
  
             <div className="sign">
-                <p>By ApnaCollege &hearts;</p>
+               <p>QuantumChat v1.0</p>
             </div>
         </section>
     )
